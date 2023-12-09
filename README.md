@@ -4,18 +4,13 @@
 ## How it works?
 Folder and File Descriptions:
   - Static - Contains all the images needed to run the program 
-  
   - Templates - contains .html files to help run the program in a web-based environment
-  
   - app.py - Serves as the main file of the program 
   
 Contents and Functions:
   - Profile and Contact - Displays the information of the author
-  
   - touppercase - Displays an uppercase letters/words of the inputted data
-  
   - Triangle - Finds the area of the triangle from length and height
-  
   - Circle - Finds the area of a circle from the inputted radius
 
 ## How to use?
